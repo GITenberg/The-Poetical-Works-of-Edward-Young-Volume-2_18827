@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8278
     wikipedia: http://en.wikipedia.org/wiki/Edward_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18827#The-Poetical-Works-of-Edward-Young-Volume-2
 gutenberg_issued: '2006-07-14'
 gutenberg_type: Text
 identifiers:
